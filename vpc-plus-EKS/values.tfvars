@@ -1,1 +1,0 @@
-project_name = "my EKS terraform project"
